@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Talin/Documents/GitHub/Github-Followers/GithubFollowers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Talin/Documents/GitHub/Github-Followers/GithubFollowers/app/src/main/res/layout/recyclerview_row.xml" value="0.1" />
+        <entry key="..\:/Users/Talin/Documents/GitHub/Github-Followers/GithubFollowers/app/src/main/res/layout/test.xml" value="0.1" />
         <entry key="..\:/Users/Talin/Documents/GitHub/GithubFollowers/app/src/main/res/layout/activity_main.xml" value="0.12537993920972645" />
       </map>
     </option>

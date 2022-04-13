@@ -1,4 +1,6 @@
 package com.ludeman.githubfollowers.common
 
-class Followers {
-}
+data class Followers (
+    val login: String,
+    val avatar: String
+)
